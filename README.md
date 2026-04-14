@@ -206,11 +206,11 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
+<img width="1916" height="808" alt="Screenshot 2026-04-14 230447" src="https://github.com/user-attachments/assets/9320c000-6729-40ab-936e-61253ab6086c" />
+<img width="1493" height="773" alt="Screenshot 2026-04-14 230534" src="https://github.com/user-attachments/assets/83d50d5e-6b58-43ea-bfbd-28fa01ad4491" />
 <img width="1477" height="790" alt="Screenshot 2026-04-14 230704" src="https://github.com/user-attachments/assets/9a517c91-b9fc-4ea4-a6f2-f6eee8ff2faf" />
 <img width="1494" height="779" alt="Screenshot 2026-04-14 230648" src="https://github.com/user-attachments/assets/5d6b70a9-afe8-49a7-9804-7cffdbd5e473" />
 <img width="1492" height="754" alt="Screenshot 2026-04-14 230612" src="https://github.com/user-attachments/assets/29ed56c9-c96f-4dfb-9ded-367f0b0281b3" />
-<img width="1493" height="773" alt="Screenshot 2026-04-14 230534" src="https://github.com/user-attachments/assets/83d50d5e-6b58-43ea-bfbd-28fa01ad4491" />
-<img width="1916" height="808" alt="Screenshot 2026-04-14 230447" src="https://github.com/user-attachments/assets/9320c000-6729-40ab-936e-61253ab6086c" />
 <img width="1511" height="796" alt="Screenshot 2026-04-14 230916" src="https://github.com/user-attachments/assets/ab2d281a-5c02-482f-a129-fe29171598f1" />
 
 
