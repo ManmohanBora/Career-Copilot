@@ -109,7 +109,7 @@ This project uses **Rule-Based NLP (Symbolic AI)**:
 
 ## ⚙️ Configuration
 
-The application uses `config.toml` for customization:
+The application uses `config.toml` for customization:-
 
 | Setting | Purpose                  |
 | ------- | ------------------------ |
