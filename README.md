@@ -213,7 +213,6 @@ streamlit run app.py
 <img width="1477" height="790" alt="Screenshot 2026-04-14 230704" src="https://github.com/user-attachments/assets/9a517c91-b9fc-4ea4-a6f2-f6eee8ff2faf" />
 <img width="1511" height="796" alt="Screenshot 2026-04-14 230916" src="https://github.com/user-attachments/assets/ab2d281a-5c02-482f-a129-fe29171598f1" />
 
-
 ---
 
 ## 📜 License
